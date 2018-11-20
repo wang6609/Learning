@@ -32,6 +32,8 @@ Reinforcement Learning David Silver [slides](http://www0.cs.ucl.ac.uk/staff/d.si
 
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 
+[Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf)
+
 ## Lectures
 Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
