@@ -7,6 +7,8 @@ Machine Learning Foundation [video](https://www.youtube.com/watch?v=nQvpFSMPhr0&
 
 Machine Learning Techniques [video](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
+Understanding Machine Learning [video](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
+
 Statistical Learning [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 CS224N Natural Language Processing with Deep Learning [slides](http://web.stanford.edu/class/cs224n/syllabus.html) [video](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
