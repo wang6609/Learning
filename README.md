@@ -14,11 +14,11 @@ CS224N Natural Language Processing with Deep Learning [slides](http://web.stanfo
 CS231N Convolutional Neural Networks for Visual Recognition [slides](http://cs231n.stanford.edu/syllabus.html) [video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Books
-Introduction to Machine Learning
+[Introduction to Machine Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?ie=UTF8&qid=1542738551&sr=8-1&keywords=introduction+to+statistical+learning)
 
-An introduction to Statistical Learning
+[An introduction to Statistical Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
 
-[THe Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 
