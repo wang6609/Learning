@@ -24,21 +24,21 @@
 **Deep RL Bootcamp** (UC Berkeley) [videos+slides](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Books
-[Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
+[Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning) (Ethem Alpaydin)
 
-[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) (Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani)
 
-[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) (Trevor Hastie, Rob Tibshirani)
 
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) (Christopher M. Bishop)
 
-[Model-based Machine Learning](http://www.mbmlbook.com/index.html)
+[Model-based Machine Learning](http://www.mbmlbook.com/index.html) (Christopher M. Bishop)
 
-[Deep Learning](https://www.deeplearningbook.org/)
+[Deep Learning](https://www.deeplearningbook.org/) (Ian Goodfellow, Yoshua Bengio)
 
-[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) (Richard Sutton, Andrew G. Barto)
 
-[Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf)
+[Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf) (Jacob Eisenstein)
 
 ## Lectures
 Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
