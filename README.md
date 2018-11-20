@@ -9,6 +9,8 @@ Machine Learning Techniques [video](https://www.youtube.com/watch?v=A-GxGCCAIrg&
 
 Understanding Machine Learning [video](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
 
+Machine Learning CMU [video](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+
 Statistical Learning [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 CS224N Natural Language Processing with Deep Learning [slides](http://web.stanford.edu/class/cs224n/syllabus.html) [video](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -17,10 +19,12 @@ CS231N Convolutional Neural Networks for Visual Recognition [slides](http://cs23
 
 Reinforcement Learning David Silver [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=1)
 
+CS294 UC Berkeley [videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+
 ## Books
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
 
-[An introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?ie=UTF8&qid=1542738551&sr=8-1&keywords=introduction+to+statistical+learning)
+[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
