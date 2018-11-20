@@ -29,3 +29,8 @@ Reinforcement Learning David Silver [slides](http://www0.cs.ucl.ac.uk/staff/d.si
 [Deep Learning](https://www.deeplearningbook.org/)
 
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+
+## Lectures
+Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
+
+Deep Learning and Reinforcement Learning Summer School, Toronto 2018 (http://videolectures.net/DLRLsummerschool2018_toronto/)
