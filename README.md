@@ -3,13 +3,13 @@
 ## Courses
  **Learning from Data** (Caltech, Yaser Abu-Mostafa) [video](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
 
-**Machine Learning Foundation** [video](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+**Machine Learning Foundation** (NTU, Hsuan-Tien Lin) [video](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 
-**Machine Learning Techniques** [video](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+**Machine Learning Techniques** (NTU, Hsuan-Tien Lin) [video](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
-**Understanding Machine Learning** [video](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
+**Understanding Machine Learning** (University of Waterloo, Shai Ben-David) [video](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
 
-**Machine Learning** (CMU) [video](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+**Machine Learning** (CMU, Tom Mitchell) [video](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
 **Statistical Learning** (Stanford) [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
