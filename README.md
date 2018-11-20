@@ -11,15 +11,15 @@
 
 **Machine Learning** (CMU, Tom Mitchell) [video](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
-**Statistical Learning** (Stanford) [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+**Statistical Learning** (Stanford, Trevor Hastie, Rob Tibshirani) [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 **CS224N Natural Language Processing with Deep Learning** (Stanford) [slides](http://web.stanford.edu/class/cs224n/syllabus.html) [video](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 **CS231N Convolutional Neural Networks for Visual Recognition** (Stanford) [slides](http://cs231n.stanford.edu/syllabus.html) [video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
-**Reinforcement Learning** (David Silver) [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=1)
+**Reinforcement Learning** (UCL, David Silver) [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=1)
 
-**CS294 Reinforcement Learning** (UC Berkeley) [videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+**CS294 Reinforcement Learning** (UC Berkeley, Sergey Levine) [videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
 
 **Deep RL Bootcamp** (UC Berkeley) [videos+slides](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
