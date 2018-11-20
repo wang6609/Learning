@@ -21,6 +21,8 @@ Reinforcement Learning David Silver [slides](http://www0.cs.ucl.ac.uk/staff/d.si
 
 CS294 UC Berkeley [videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
 
+UC Berkeley Deep RL Bootcamp [videos+slides](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 ## Books
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
 
