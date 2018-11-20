@@ -16,9 +16,9 @@ CS231N Convolutional Neural Networks for Visual Recognition [slides](http://cs23
 Reinforcement Learning David Silver [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=1)
 
 ## Books
-[Introduction to Machine Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?ie=UTF8&qid=1542738551&sr=8-1&keywords=introduction+to+statistical+learning)
+[Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
 
-[An introduction to Statistical Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning)
+[An introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?ie=UTF8&qid=1542738551&sr=8-1&keywords=introduction+to+statistical+learning)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
