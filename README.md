@@ -1,4 +1,4 @@
-# 
+# Machine Learning
 
 ## Courses
  **Learning from Data** (Caltech, Yaser Abu-Mostafa) [video](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
