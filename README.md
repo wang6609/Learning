@@ -23,6 +23,8 @@
 
 **Deep RL Bootcamp** (UC Berkeley) [videos+slides](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
+**Advanced Deep Learning and Reinforcement Learning** (UCL + DeepMind) [videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 ## Books
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning) (Ethem Alpaydin)
 
