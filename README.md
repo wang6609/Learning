@@ -25,6 +25,8 @@
 
 **Advanced Deep Learning and Reinforcement Learning** (UCL + DeepMind) [videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
+**Advanced Topics in DL, GAN, Deep RL, DL Theory** [videos](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/featured) (NTU, 李宏毅)
+
 ## Books
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning) (Ethem Alpaydin)
 
@@ -42,8 +44,7 @@
 
 [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf) (Jacob Eisenstein)
 
-[Dive into Deep Learning](http://en.diveintodeeplearning.org/chapter_introduction/index.html) (
-Aston Zhang et al)
+[Dive into Deep Learning](http://en.diveintodeeplearning.org/chapter_introduction/index.html) (Aston Zhang et al)
 
 ## Lectures
 Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
