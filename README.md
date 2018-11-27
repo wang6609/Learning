@@ -25,7 +25,7 @@
 
 **Advanced Deep Learning and Reinforcement Learning** (UCL + DeepMind) [videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
-**Advanced Topics in DL, GAN, Deep RL, DL Theory** [videos](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/featured) (NTU, 李宏毅)
+**Advanced Topics in DL, GAN, Deep RL, DL Theory** (NTU, 李宏毅) [videos](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/featured) 
 
 ## Books
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning) (Ethem Alpaydin)
