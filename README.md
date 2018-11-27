@@ -42,7 +42,8 @@
 
 [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf) (Jacob Eisenstein)
 
-[Dive into Deep Learning](http://en.diveintodeeplearning.org/chapter_introduction/index.html)
+[Dive into Deep Learning](http://en.diveintodeeplearning.org/chapter_introduction/index.html) (
+Aston Zhang et al)
 
 ## Lectures
 Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
