@@ -9,3 +9,6 @@
 
 ### Data Science
 [Most Essential Skills for Data Scientists, and How to Educate for the Future](https://towardsdatascience.com/most-essential-skills-for-data-scientists-and-how-do-we-educate-for-the-future-adc8a4bca0bb)
+
+### Deep Learning 
+[Deep learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
