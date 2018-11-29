@@ -1,1 +1,1 @@
-**Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares** [Link](https://web.stanford.edu/~boyd/vmls/) (Stephen Boyd and Lieven Vandenberghe)
+**Introduction to Applied Linear Algebra** [Link](https://web.stanford.edu/~boyd/vmls/) (Stephen Boyd and Lieven Vandenberghe)
