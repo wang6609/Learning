@@ -7,6 +7,8 @@
 
 **Machine Learning Techniques** (NTU, Hsuan-Tien Lin) [video](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
+**CS229 Machine Learning** (Stanford, Andrew, Ng)[video](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+
 **Understanding Machine Learning** (University of Waterloo, Shai Ben-David) [video](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLFze15KrfxbH8SE4FgOHpMSY1h5HiRLMm)
 
 **Machine Learning** (CMU, Tom Mitchell) [video](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
