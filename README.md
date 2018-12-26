@@ -30,6 +30,8 @@
 **Advanced Topics in DL, GAN, Deep RL, DL Theory** (NTU, 李宏毅) [videos](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/featured) 
 
 ## Books
+ [Learning from Data](https://work.caltech.edu/textbook.html) (Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
+
 [Introduction to Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Adaptive-Computation/dp/0262028182/ref=sr_1_9?ie=UTF8&qid=1542738509&sr=8-9&keywords=introduction+to+machine+learning) (Ethem Alpaydin)
 
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) (Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani)
