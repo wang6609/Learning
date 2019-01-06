@@ -29,7 +29,7 @@
 
 **Advanced Topics in DL, GAN, Deep RL, DL Theory** (NTU, 李宏毅) [videos](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/featured) 
 
-**CMU10703 Deep Reinforcement Learning and Control** (CMU) [videos] (https://www.youtube.com/watch?v=DIE0jG1Jk8k&list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV)
+**CMU10703 Deep Reinforcement Learning and Control** (CMU) [videos](https://www.youtube.com/watch?v=DIE0jG1Jk8k&list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV)
 
 ## Books
  [Learning from Data](https://work.caltech.edu/textbook.html) (Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
