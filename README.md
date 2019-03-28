@@ -52,6 +52,9 @@
 
 [Dive into Deep Learning](http://en.diveintodeeplearning.org/chapter_introduction/index.html) (Aston Zhang et al)
 
+[Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/) (Andrew Gelman et al)
+
+[Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) (Hernán MA et al)
 ## Lectures
 Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
 
