@@ -31,6 +31,8 @@
 
 **CMU10703 Deep Reinforcement Learning and Control** (CMU) [videos](https://www.youtube.com/watch?v=DIE0jG1Jk8k&list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV)
 
+**Open AI Deep RL** (https://spinningup.openai.com/en/latest/)
+
 ## Books
  [Learning from Data](https://work.caltech.edu/textbook.html) (Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
 
