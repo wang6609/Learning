@@ -62,7 +62,7 @@ Richard Sutton [Tutorial: Introduction to Reinforcement Learning with Function A
 
 Deep Learning and Reinforcement Learning Summer School, Toronto 2018 [Link](http://videolectures.net/DLRLsummerschool2018_toronto/)
 
-## Books recommendations
+## Book recommendations
 [Sridhar Mahadevan, Fellow of AAAI, part I](https://www.quora.com/What-textbooks-had-the-biggest-impact-on-you-as-a-machine-learning-researcher)
 
 [Sridhar Mahadevan, Fellow of AAAI, part II](https://www.quora.com/If-you-could-buy-20-math-books-for-machine-learning-what-books-would-you-buy)
