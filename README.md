@@ -15,7 +15,7 @@
 
 **Statistical Learning** (Stanford, Trevor Hastie, Rob Tibshirani) [video](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
-**CS224N Natural Language Processing with Deep Learning** (Stanford) [slides](http://web.stanford.edu/class/cs224n/syllabus.html) [video](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+**CS224N Natural Language Processing with Deep Learning** (Stanford,2019) [slides](http://web.stanford.edu/class/cs224n/syllabus.html) [video](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 **CS231N Convolutional Neural Networks for Visual Recognition** (Stanford) [slides](http://cs231n.stanford.edu/syllabus.html) [video](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
@@ -34,6 +34,8 @@
 **Open AI Deep RL** (https://spinningup.openai.com/en/latest/)
 
 **CS234 Reinforcement Learning** (Stanford,2019) [videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+**CS230 Deep Learning** (Stanford,2018, Andrew Ng) [videos](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=1)
 
 ## Books
  [Learning from Data](https://work.caltech.edu/textbook.html) (Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
