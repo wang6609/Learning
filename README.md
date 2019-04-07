@@ -33,6 +33,8 @@
 
 **Open AI Deep RL** (https://spinningup.openai.com/en/latest/)
 
+**CS234 Reinforcement Learning** (Stanford,2019) [videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
 ## Books
  [Learning from Data](https://work.caltech.edu/textbook.html) (Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
 
